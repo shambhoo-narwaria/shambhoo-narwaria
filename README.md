@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 # Hi there, I'm Shambhoolal Narwaria! 👋
 
 ## About Me
-I'm a final-year B.Tech student in Computer Science and Engineering at the Indian Institute of Technology, Roorkee. My passion lies in Data Structures, Algorithms, and Software Development. 
+I'm a final-year B.Tech student in Computer Science and Engineering at the Indian Institute of Technology, Roorkee. My passion lies in Data Structures, Algorithms, and Machine Learning. 
 
 ## Skills
 - **Languages**: Java, C++, Python, JavaScript, HTML, CSS
