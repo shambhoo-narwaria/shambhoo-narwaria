@@ -20,7 +20,7 @@ I'm a final-year B.Tech student in Computer Science and Engineering at the India
 
 ## Skills
 - **Languages**: Java, C++, Python, JavaScript, HTML, CSS
-- **Frameworks & Tools**: Node.js, React.js, Django, RESTful APIs, Version Control (Git)
+- **Frameworks & Tools**: Node.js, React.js, RESTful APIs, Pandas, NumPy, Version Control (Git)
 - **Additional Knowledge**: Object-Oriented Programming (OOP), Agile Software Development
 
 ## Get in Touch
