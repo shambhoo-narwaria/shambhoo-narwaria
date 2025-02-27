@@ -92,7 +92,6 @@ I enjoy **solving complex problems, optimizing system performance, and exploring
 
 📩 **Email:** snarwaria195mb@gmail.com  
 📱 **Phone:** +91 7803054683  
-🌍 **Portfolio:** [your-portfolio-link-here]  
 🔗 **LinkedIn:** [linkedin.com/in/shambhoolal-narwaria](https://linkedin.com/in/shambhoolal-narwaria)  
 🐙 **GitHub:** [github.com/mr-narwaria](https://github.com/mr-narwaria)  
 
