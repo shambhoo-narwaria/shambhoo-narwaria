@@ -34,48 +34,6 @@ I enjoy **solving complex problems, optimizing system performance, and exploring
 
 ---
 
-## 📌 Projects  
-
-### [1️⃣ Psychometric Assessment Application](https://github.com/mr-narwaria/Psychometric-Assessment-Application)  
-🔹 **Tech Stack:** React.js, Node.js, JavaScript  
-- Scalable **gamified psychometric platform** for real-time evaluation.  
-- **Interactive psychometric games** with **real-time analytics**.  
-- **User engagement increased by ~25%** via gamification strategies.  
-
-### [2️⃣ Text-to-Sign Language Translator](https://github.com/mr-narwaria/Text-to-Sign-Language-Translator)  
-🔹 **Tech Stack:** Django, Python, NLTK, ML  
-- Built a **real-time text-to-sign language conversion system**.  
-- Optimized **speech-to-ASL translation** accuracy.  
-- Improved **ASL animations**, reducing latency by **25%**.  
-
-### [3️⃣ Social Media Web App – Koin](https://github.com/mr-narwaria/Social-Media-Web-App-Koin-Frontend)  
-🔹 **Tech Stack:** Node.js, React.js, MongoDB, JWT  
-- **Real-time social media platform** for **7,000+ students**.  
-- Improved **MongoDB query performance by 30%**.  
-- Implemented **JWT authentication** for enhanced **security**.  
-
-### [4️⃣ Reliable UDP Protocol – Network Communication](https://github.com/mr-narwaria/Reliable-UDP-Protocol-Network-Communication)  
-🔹 **Tech Stack:** C++, TCP/IP, Network Algorithms  
-- Designed a **custom UDP protocol** with **Selective Repeat & Go-Back-N**.  
-- Implemented **congestion control**, improving efficiency by **~25%**.  
-- **Simulated performance using Wireshark**.  
-
----
-
-## 🎖 Achievements & Certifications  
-
-🏆 **Competitive Programming:**  
-- **3-Star on CodeChef** (Max Rating: **1706**)  
-- **Pupil on Codeforces** (Max Rating: **1335**)  
-- **Global Ranks:** **106, 156, and 292** in CodeChef Contests  
-
-📜 **Certifications:**  
-- **Google Data Analytics Certification** – Data analysis, visualization, and SQL  
-
-🚀 **Academic Achievement:** **AIR 6169 in JEE Advanced** (Top **0.5%**)  
-
----
-
 ## 🤝 Let's Connect!  
 
 📩 **Email:** snarwaria195mb@gmail.com  
