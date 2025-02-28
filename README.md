@@ -1,6 +1,6 @@
 # 👋 Shambhoolal Narwaria - Software Engineer & Machine Learning Enthusiast  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/shambhoolal-narwaria/) [![GitHub](https://img.shields.io/badge/GitHub-View%20Profile-black?logo=github)](https://github.com/mr-narwaria) [![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:snarwaria195mb@gmail.com)  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?logo=vercel)](https://mr-narwaria.github.io/portfolio/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/shambhoolal-narwaria/) [![GitHub](https://img.shields.io/badge/GitHub-View%20Profile-black?logo=github)](https://github.com/mr-narwaria) [![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:snarwaria195mb@gmail.com)  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?logo=vercel)](https://shaam-narwaaria.github.io/)  
 
 ---
 
