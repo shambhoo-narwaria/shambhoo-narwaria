@@ -20,7 +20,7 @@ I enjoy **solving complex problems, optimizing system performance, and exploring
 
 ## 🤝 Let's Connect!  
 
-📩 **Email:** snarwaria195mb@gmail.com  
+📩 **Email:** shambhoo.narwaria@gmail.com 
 📱 **Phone:** +91 7803054683  
 🔗 **LinkedIn:** [linkedin.com/in/shambhoo-narwaria](https://linkedin.com/in/shambhoo-narwaria)  
 🐙 **GitHub:** [github.com/shambhoo-narwaria](https://github.com/shambhoo-narwaria)  
