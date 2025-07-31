@@ -1,28 +1,59 @@
-# 👋 Shambhoolal Narwaria Final-Year BTech CSE @ IIT Roorkee 
+# 👋 Hi, I'm Shambhoo Narwaria — Final-Year B.Tech CSE @ IIT Roorkee
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/shambhoo-narwaria/) [![GitHub](https://img.shields.io/badge/GitHub-View%20Profile-black?logo=github)](https://github.com/shambhoo-narwaria) [![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:shambhoo.narwaria@gmail.com) 
-
----
-
-📍 **IIT Roorkee | Final-Year B.Tech | CSE**  
-📞 **+91 7803054683** | ✉ **shambhoo.narwaria@gmail.com**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/shambhoo-narwaria/) 
+[![GitHub](https://img.shields.io/badge/GitHub-View_Profile-black?logo=github)](https://github.com/shambhoo-narwaria) 
+[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:shambhoo.narwaria@gmail.com)
 
 ---
 
-## 🚀 About Me  
-I am a **Software Engineer and Machine Learning Enthusiast** passionate about **building scalable, high-performance applications**. As a **final-year B.Tech student at IIT Roorkee**, I have hands-on experience in **full-stack development, distributed systems, and AI-driven applications**.  
-
-I enjoy **solving complex problems, optimizing system performance, and exploring new technologies**.  
-
-💡 **Currently seeking software engineering roles** in **backend development, system design, and AI-powered applications**.  
+🎓 **Final-Year B.Tech | Computer Science & Engineering | IIT Roorkee**  
+🔍 **Aspiring Software Engineer** | 💡 Backend | 🚀 Systems | 🤖 AI & ML  
+📍 **India** | 📞 +91 7803054683 | ✉️ shambhoo.narwaria@gmail.com
 
 ---
 
-## 🤝 Let's Connect!  
+## 🧑‍💻 About Me
 
-📩 **Email:** shambhoo.narwaria@gmail.com 
-📱 **Phone:** +91 7803054683  
-🔗 **LinkedIn:** [linkedin.com/in/shambhoo-narwaria](https://linkedin.com/in/shambhoo-narwaria)  
-🐙 **GitHub:** [github.com/shambhoo-narwaria](https://github.com/shambhoo-narwaria)  
+I’m a passionate **software engineer** with strong interests in:
+- 🔧 **Backend Development**
+- ⚙️ **System Design**
+- 🤖 **AI & Machine Learning Applications**
 
-💬 **Let's collaborate and build something awesome!** 🚀  
+I enjoy crafting **scalable**, **high-performance systems** and diving deep into **algorithmic problem solving**, distributed systems, and full-stack engineering. I'm currently in the final year of my B.Tech at **IIT Roorkee**, actively exploring **software engineering opportunities** to build impactful products and learn from great teams.
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:**  
+`C++` `Java` `Python` `JavaScript` `TypeScript`
+
+**Frameworks & Libraries:**  
+`Node.js` `Express.js` `React` `Next.js` `Spring Boot` `NumPy` `Pandas` `TensorFlow`
+
+**Databases:**  
+`MongoDB` `PostgreSQL` `MySQL` `Firebase`
+
+**Dev Tools & Cloud:**  
+`Git` `Docker` `Linux` `AWS` `GCP` `VS Code` `GitHub Actions`
+
+---
+
+## 📈 GitHub Stats
+
+![Shambhoo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shambhoo-narwaria&show_icons=true&theme=github_dark&count_private=true&hide=prs)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shambhoo-narwaria&layout=compact&theme=github_dark)
+
+---
+
+## 📫 Let's Connect
+
+- 🔗 [LinkedIn](https://linkedin.com/in/shambhoo-narwaria)
+- 🐙 [GitHub](https://github.com/shambhoo-narwaria)
+- 📬 [Email](mailto:shambhoo.narwaria@gmail.com)
+- 📱 +91 7803054683
+
+---
+
+### 💬 *“Build systems that last. Learn constantly. Ship fearlessly.”*
+
