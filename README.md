@@ -5,7 +5,7 @@
 ---
 
 📍 **IIT Roorkee | Final-Year B.Tech | CSE**  
-📞 **+91 7803054683** | ✉ **snarwaria195mb@gmail.com**  
+📞 **+91 7803054683** | ✉ **shambhoo.narwaria@gmail.com**  
 
 ---
 
