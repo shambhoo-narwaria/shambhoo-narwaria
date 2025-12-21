@@ -1,4 +1,8 @@
-# 👋 Hi, I'm Shambhoo Narwaria — Final-Year B.Tech CSE @ IIT Roorkee
+# 👋 Hi, I'm Shambhoo Narwaria
+### **Software Engineer | Backend & Systems Specialist | IIT Roorkee Alumnus**
+Building scalable distributed systems and AI-integrated applications.
+
+---
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/shambhoo-narwaria/) 
 [![GitHub](https://img.shields.io/badge/GitHub-View_Profile-black?logo=github)](https://github.com/shambhoo-narwaria) 
