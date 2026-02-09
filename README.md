@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Shambhoo Narwaria
-### **Software Engineer | Backend & Systems Specialist | IIT Roorkee Alumnus**
-Building scalable distributed systems and AI-integrated applications.
+### **Backend Software Engineer | Java, Spring Boot & Node.js | IIT Roorkee Alumnus**
+I build REST APIs, authentication systems, and database-driven backend applications.
+Strong foundation in DSA (C++) and system fundamentals, with hands-on experience in Spring Boot, Node.js, MySQL, and MongoDB.
 
 ---
 
