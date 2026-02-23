@@ -31,16 +31,16 @@ I enjoy crafting **scalable**, **high-performance systems** and diving deep into
 ## 🛠️ Tech Stack
 
 **Languages:**  
-`C++` `Java` `Python` `JavaScript` `TypeScript`
+`C++` `C#` `Java` `Python` `JavaScript` `TypeScript`
 
 **Frameworks & Libraries:**  
-`Node.js` `Express.js` `React` `Next.js` `Spring Boot` `NumPy` `Pandas` `TensorFlow`
+`Node.js` `.Net` `Next.js` `Spring Boot` `NumPy` `Pandas` `PyTorch`
 
 **Databases:**  
-`MongoDB` `PostgreSQL` `MySQL` `Firebase`
+`MongoDB` `MySQL` `Firebase`
 
 **Dev Tools & Cloud:**  
-`Git` `Docker` `Linux` `AWS` `GCP` `VS Code` `GitHub Actions`
+`Git` `Docker` `Linux` `AWS` `GCP` `VS Code` `GitHub` `GitBash`
 
 ---
 
