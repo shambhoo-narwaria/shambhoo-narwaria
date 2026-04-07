@@ -1,64 +1,97 @@
 # 👋 Hi, I'm Shambhoo Narwaria
-### **Backend Software Engineer | Java, Spring Boot & Node.js | IIT Roorkee Alumnus**
-I build REST APIs, authentication systems, and database-driven backend applications.
-Strong foundation in DSA (C++) and system fundamentals, with hands-on experience in Spring Boot, Node.js, MySQL, and MongoDB.
+
+### Backend Engineer | Software Engineer | Java, Spring Boot, TypeScript & Node.js
+
+I build **scalable backend systems and APIs** with a strong foundation in **networks, concurrency, and system design**.
+
+- Backend Development (REST APIs, Auth Systems)
+- Strong CS Fundamentals (OS, Networks, DBMS)
+- Strong Problem Solving & DSA (C++) — focused on efficient algorithms and optimization
+- Focused on scalable & production-ready systems
+
+---
+## Featured Projects
+
+### PsyGuage Backend (Production-Oriented API System)
+https://github.com/shambhoo-narwaria/PsyGuage-Backend
+
+- Built using **Node.js, Express, MongoDB**
+- Implemented **JWT-based authentication & authorization**
+- Designed APIs for **user management, assessments, and analytics**
+- Structured code with **modular architecture & clean separation of concerns**
+- Focus: scalability, maintainability, secure backend design
 
 ---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/shambhoo-narwaria/) 
-[![GitHub](https://img.shields.io/badge/GitHub-View_Profile-black?logo=github)](https://github.com/shambhoo-narwaria) 
-[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:shambhoo.narwaria@gmail.com)
+### URL Shortener (Scalable Backend System)
+https://github.com/shambhoo-narwaria/url-shortener
+
+- Built using **Spring Boot / Node.js + Redis + MySQL**
+- Designed **high-performance URL redirection system**
+- Implemented Base62 encoding for short links
+- Used **Redis caching** to reduce latency
+- Focus: system design, caching, high-throughput backend
 
 ---
 
-🎓 **Final-Year B.Tech | Computer Science & Engineering | IIT Roorkee**  
-🔍 **Aspiring Software Engineer** | 💡 Backend | 🚀 Systems | 🤖 AI & ML  
-📍 **India** | 📞 +91 7803054683 | ✉️ shambhoo.narwaria@gmail.com
+### Base64 Encoder/Decoder Service
+https://github.com/shambhoo-narwaria/base64-service
+
+- Built a REST-based **encoding/decoding microservice**
+- Supports text and file transformations
+- Designed as a **stateless service for scalability**
+- Focus: API design, performance, modular backend systems
 
 ---
 
-## 🧑‍💻 About Me
+### Reliable UDP Protocol (Networking System)
+https://github.com/shambhoo-narwaria/Reliable-UDP
 
-I’m a passionate **software engineer** with strong interests in:
-- 🔧 **Backend Development**
-- ⚙️ **System Design**
-- 🤖 **AI & Machine Learning Applications**
-
-I enjoy crafting **scalable**, **high-performance systems** and diving deep into **algorithmic problem solving**, distributed systems, and full-stack engineering. I'm currently in the final year of my B.Tech at **IIT Roorkee**, actively exploring **software engineering opportunities** to build impactful products and learn from great teams.
+- Implemented Stop & Wait, Go-Back-N, Selective Repeat
+- Added checksum & packet loss handling
+- Simulates TCP reliability mechanisms
 
 ---
 
-## 🛠️ Tech Stack
+### Sleeping Barber Problem (Concurrency System)
+https://github.com/shambhoo-narwaria/Sleeping-Barber
 
-**Languages:**  
-`C++` `C#` `Java` `Python` `JavaScript` `TypeScript`
-
-**Frameworks & Libraries:**  
-`Node.js` `.Net` `Next.js` `Spring Boot` `NumPy` `Pandas` `PyTorch`
-
-**Databases:**  
-`MongoDB` `MySQL` `Firebase`
-
-**Dev Tools & Cloud:**  
-`Git` `Docker` `Linux` `AWS` `GCP` `VS Code` `GitHub` `GitBash`
+- Implemented synchronization using threads, mutex & condition variables
+- Simulates real-world resource scheduling
 
 ---
 
-## 📈 GitHub Stats
+## Tech Stack
 
-![Shambhoo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shambhoo-narwaria&show_icons=true&theme=github_dark&count_private=true&hide=prs)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shambhoo-narwaria&layout=compact&theme=github_dark)
+**Backend**  
+`Spring Boot` `Node.js` `Express.js`
+
+**Languages**  
+`Java` `C++` `JavaScript` `TypeScript`
+
+**Databases**  
+`MongoDB` `MySQL` `PostgreSQL`
+
+**Tools & Cloud**  
+`Docker` `AWS` `Linux` `Git`
 
 ---
 
-## 📫 Let's Connect
+## Current Focus
 
-- 🔗 [LinkedIn](https://linkedin.com/in/shambhoo-narwaria)
-- 🐙 [GitHub](https://github.com/shambhoo-narwaria)
-- 📬 [Email](mailto:shambhoo.narwaria@gmail.com)
-- 📱 +91 7803054683
+- System Design (HLD + LLD)
+- Backend Performance Optimization
+- Distributed Systems
 
 ---
 
-### 💬 *“Build systems that last. Learn constantly. Ship fearlessly.”*
+## Connect With Me
 
+- LinkedIn: https://www.linkedin.com/in/shambhoo-narwaria/
+- GitHub: https://github.com/shambhoo-narwaria
+- Email: shambhoo.narwaria@gmail.com
+
+---
+
+### Philosophy
+> Build systems that scale. Understand systems deeply. Avoid surface-level engineering.
