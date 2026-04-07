@@ -13,7 +13,6 @@ I build **scalable backend systems and APIs** with a strong foundation in **netw
 ## Featured Projects
 
 ### PsyGuage Backend (Production-Oriented API System)
-https://github.com/shambhoo-narwaria/PsyGuage-Backend
 
 - Built using **Node.js, Express, MongoDB**
 - Implemented **JWT-based authentication & authorization**
@@ -24,7 +23,6 @@ https://github.com/shambhoo-narwaria/PsyGuage-Backend
 ---
 
 ### URL Shortener (Scalable Backend System)
-https://github.com/shambhoo-narwaria/url-shortener
 
 - Built using **Spring Boot / Node.js + Redis + MySQL**
 - Designed **high-performance URL redirection system**
@@ -35,7 +33,6 @@ https://github.com/shambhoo-narwaria/url-shortener
 ---
 
 ### Base64 Encoder/Decoder Service
-https://github.com/shambhoo-narwaria/base64-service
 
 - Built a REST-based **encoding/decoding microservice**
 - Supports text and file transformations
@@ -45,7 +42,6 @@ https://github.com/shambhoo-narwaria/base64-service
 ---
 
 ### Reliable UDP Protocol (Networking System)
-https://github.com/shambhoo-narwaria/Reliable-UDP
 
 - Implemented Stop & Wait, Go-Back-N, Selective Repeat
 - Added checksum & packet loss handling
@@ -54,7 +50,6 @@ https://github.com/shambhoo-narwaria/Reliable-UDP
 ---
 
 ### Sleeping Barber Problem (Concurrency System)
-https://github.com/shambhoo-narwaria/Sleeping-Barber
 
 - Implemented synchronization using threads, mutex & condition variables
 - Simulates real-world resource scheduling
