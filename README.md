@@ -1,6 +1,6 @@
-# Hi, I'm Shambhoo Narwaria
+# 👋 Hi, I'm Shambhoo Narwaria
 
-### Backend Engineer · Java, Spring Boot, TypeScript & Node.js · IIT Roorkee CSE '25
+### Backend Engineer · Java, Spring Boot, TypeScript & Node.js · IIT Roorkee CSE '25 · CGPA 8.36/10
 
 I build **scalable backend systems and distributed APIs** — grounded in deep CS fundamentals.  
 Strong in **system design, concurrency, networking, and event-driven architecture**.
@@ -69,6 +69,20 @@ Strong in **system design, concurrency, networking, and event-driven architectur
 
 ---
 
+### [AI Testcase Recorder](https://github.com/shambhoo-narwaria/AI-Testcase-Recorder)
+> AI-powered Playwright test recorder that converts natural language goals into reusable browser automation flows.
+
+- Give it a **start URL + plain English goal** — it figures out the steps autonomously
+- Opens a real browser with **Playwright**, inspects the live DOM, and asks an AI model for the next best action
+- Executes actions step-by-step and saves them as a **reusable JSON test case**
+- **Plug-and-play LLM support** — works with OpenAI, OpenRouter, or any OpenAI-compatible provider via `.env` config
+- Supports **fallback models** if the primary model fails
+- Recorded test cases can be replayed independently via the playback script
+
+`TypeScript` `Playwright` `Node.js` `LLM` `Browser Automation` `AI Agents`
+
+---
+
 ### PsyGuage Backend API
 > Production-oriented REST API for psychological assessments.
 
@@ -81,13 +95,13 @@ Strong in **system design, concurrency, networking, and event-driven architectur
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 **Backend**  
-`Spring Boot` `Node.js` `Express.js` `Apache Kafka`
+`Spring Boot` `Node.js` `Express.js` `Apache Kafka` `RESTful API` `FastAPI`
 
 **Languages**  
-`Java` `TypeScript` `JavaScript` `C++`
+`Java` `TypeScript` `JavaScript` `Python` `C++`
 
 **Databases**  
 `PostgreSQL` `MongoDB` `MySQL` `Redis`
