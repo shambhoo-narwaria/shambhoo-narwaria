@@ -1,4 +1,7 @@
-# 👋 Hi, I'm Shambhoo Narwaria
+<h1 align="left">
+  👋 Hi, I'm Shambhoo Narwaria
+  <img src="https://komarev.com/ghpvc/?username=shambhoo-narwaria&style=for-the-badge" align="right"/>
+</h1>
 
 ### Backend Engineer · Java, Spring Boot, TypeScript & Node.js · IIT Roorkee CSE '25 · CGPA 8.36/10
 
